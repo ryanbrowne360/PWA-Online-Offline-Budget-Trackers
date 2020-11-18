@@ -20,24 +20,12 @@
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
     "logger": "0.0.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  }
-}
-
-{
-  "name": "budget-app",
-  "version": "1.0.0",
-  "lockfileVersion": 1,
-  "requires": true,
-  "dependencies": {
-    "logger": {
-      "version": "0.0.1",
-      "resolved": "https://registry.npmjs.org/logger/-/logger-0.0.1.tgz",
-      "integrity": "sha1-ywgXH4pvb2dLhJna31C+1L77csQ="
-    }
-  }
+  },
+  "devDependencies": {}
 }
